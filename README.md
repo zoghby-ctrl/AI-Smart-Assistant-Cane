@@ -24,3 +24,10 @@ This project is a smart mobility aid for the visually impaired powered by an ESP
 * **Haptic Feedback:** Integrating a vibration motor for silent alerts in noisy environments.
 * **GPS Tracking:** Adding a GSM/GPS module to send location data to family members in emergencies.
 * **Battery Management:** Implementing a BMS (Battery Management System) for safer charging and battery level indication.
+
+## Team
+* **Ahmed Eloghby** – Team Lead
+* **Abdelrahman Ali** – Team Lead
+* **Nouran Hossam** – Team Member
+* **Ahmed Hassan** – Team Member
+* **Razan Hany** – Team Member
